@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [github.com/farhan](github.com/farhan)
 
-- 💬 Ask me about **python, django, android, micro-services**
+- 💬 Ask me about **python, django, micro-services**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mfarhan133/](https://www.linkedin.com/in/mfarhan133/)
 
-- ⚡ Deep Inside **Adventerous Soul, Imaginatice and Analytical Mind, Love to automate**
+- ⚡ Deep Inside **Adventerous Soul, Imaginative and Analytical Mind, Coding and Automation in Blood**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,8 @@
 <img src="https://cdn-icons-png.flaticon.com/128/7794/7794678.png" width="20" height="40"/>
 <a href="https://www.mysql.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+<a href="https://www.mongodb.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.elastic.co/" target="blank"><img src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" alt="elastic" width="40" height="40"/></a>
 <img src="https://cdn-icons-png.flaticon.com/128/7794/7794678.png" width="20" height="40"/>
 <a href="https://aws.amazon.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
